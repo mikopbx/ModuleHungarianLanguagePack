@@ -1,0 +1,546 @@
+; Core Asterisk Sounds in Hungarian (Magyar)
+; Generated using Piper TTS (hu_HU-anna-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 541
+;
+activated: Aktivalva.
+added: Hozzaadva.
+agent-alreadyon: Ez az ugynoek mar be van jelentkezve. Kerem, adja meg az ugynoeknumerat, majd nyomja meg a kettos keresztet.
+agent-incorrect: Hibas bejelentkezes. Kerem, adja meg az ugynoeknumerat, majd nyomja meg a kettos keresztet.
+agent-loggedoff: Ugynoek kijelentkezve.
+agent-loginok: Ugynoek bejelentkezve.
+agent-newlocation: Kerem, adjon meg egy uj melleket, majd nyomja meg a kettos keresztet.
+agent-pass: Kerem, adja meg a jelszavat, majd nyomja meg a kettos keresztet.
+agent-user: Ugynoeok bejelentkezese. Kerem, adja meg az ugynoeknumerat, majd nyomja meg a kettos keresztet.
+all-circuits-busy-now: Jelenleg minden vonal foglalt.
+astcc-followed-by-the-pound-key: Majd nyomja meg a kettos keresztet.
+at-tone-time-exactly: A hangjelzéskor a pontos idő...
+auth-incorrect: Hibas jelszo. Kerem, adja meg a jelszavat, majd nyomja meg a kettos keresztet.
+auth-thankyou: Koeszoenjuek.
+call-forwarding: Hivasatiranyitas.
+call-fwd-no-ans: Hivasatiranyitas valasz hianyaban.
+call-fwd-on-busy: Hivasatiranyitas foglaltsag eseten.
+call-fwd-unconditional: Feltetel nelkueli hivasatiranyitas.
+call-waiting: Hivas varakoztatasa.
+calling: Hívás.
+cancelled: Toeroel ve.
+cannot-complete-as-dialed: Az Oen hivasa a tarchazott szamon nem kapcsolhato.
+check-number-dial-again: Kerem, ellenoerizze a szamot es tarcsazzon ujra.
+conf-adminmenu: Kérem, nyomja meg az 1-et a némítás be- vagy kikapcsolásához, a 2-t a konferencia zárolásához vagy feloldásához, a 3-at az utolsó felhasználó eltávolításához, a 4-et vagy 6-ot a konferencia hangerejének csökkentéséhez vagy növeléséhez, a 7-et vagy 9-et a saját hangerejének csökkentéséhez vagy növeléséhez, vagy a 8-at a kilépéshez.
+conf-adminmenu-162: Kérem, nyomja meg az 1-et a némítás be- vagy kikapcsolásához, a 2-t a konferencia zárolásához vagy feloldásához, a 3-at az utolsó felhasználó eltávolításához, a 4-et vagy 6-ot a konferencia hangerejének csökkentéséhez vagy növeléséhez, az 5-öt a konferencia meghosszabbításához, a 7-et vagy 9-et a saját hangerejének csökkentéséhez vagy növeléséhez, vagy a 8-at a kilépéshez.
+conf-adminmenu-18: Kérem, nyomja meg az 1-et a némítás be- vagy kikapcsolásához, a 2-t a konferencia zárolásához vagy feloldásához, a 3-at az utolsó felhasználó eltávolításához, a 4-et vagy 6-ot a konferencia hangerejének csökkentéséhez vagy növeléséhez, az 5-öt a konferencia meghosszabbításához, a 7-et vagy 9-et a saját hangerejének csökkentéséhez vagy növeléséhez, vagy a 8-at a további lehetőségekhez.
+conf-adminmenu-menu8: Nyomja meg az 1-et a konferenciában lévő felhasználók listájához, a 2-t az összes nem rendszergazda felhasználó eltávolításához, a 3-at az összes nem rendszergazda felhasználó némításához vagy feloldásához, a 4-et a konferencia rögzítéséhez, vagy a 8-at a menüből való kilépéshez és a konferenciába való visszatéréshez.
+conf-enteringno: Oen a koevetkezoe szamu konferenciahoz csatlakozik
+conf-errormenu: Ervenytelen valasztas
+conf-extended: A konferencia meghosszabbitva.
+conf-full: A konferencia megtelt.
+conf-getchannel: Kerem, adja meg a csatornaszamot, majd nyomja meg a kettos keresztet.
+conf-getconfno: Kerem, adja meg a konferenciaszamot, majd nyomja meg a kettos keresztet.
+conf-getpin: Kerem, adja meg a konferencia PIN kodot.
+conf-hasjoin: csatlakozott a konferenciahoz.
+conf-hasleft: elhagyta a konferenciat.
+conf-invalid: Ez nem ervenyes konferenciaszam. Kerem, problja ujra.
+conf-invalidpin: Ez a PIN kod ervenytelen ehhez a konferenciahoz.
+conf-kicked: Oent eltavolitottak a konferenciabol
+conf-leaderhasleft: A konferencia vezetoeje elhagyta a konferenciat.
+conf-locked: Ez a konferencia zarolt!
+conf-lockednow: A konferencia zarolva
+conf-muted: Oen most el van nemitva
+conf-noempty: Jelenleg nincs ueres konferencia.
+conf-nonextended: A konferencia nem hosszabbithato meg.
+conf-now-muted: A konferencia most el van nemitva.
+conf-now-recording: A konferencia rogzitese megkezdoedoett.
+conf-now-unmuted: A konferencia nemitasa feloldva.
+conf-onlyone: Jelenleg egy masik resztvevoe van a konferenciaban.
+conf-onlyperson: Oen jelenleg az egyetlen resztvevoe a konferenciaban.
+conf-otherinparty: tovabbi resztvevoe a konferenciaban
+conf-placeintoconf: Most a konferenciahoz kerueel csatlakoztatasa.
+conf-roll-callcomplete: A resztvevoek listajanak lejatszasa befejezoeodoett.
+conf-thereare: Jelenleg
+conf-unlockednow: A konferencia zarolasa feloldva
+conf-unmuted: Oen nemitasa feloldva
+conf-usermenu: Kerem, nyomja meg az 1-et az elnemitas vagy a nemitas feloldasahoz, a 4-et vagy a 6-ot a konferencia hangeroejenek csoekkenteseehez vagy noeveleeseehez, a 7-et vagy a 9-et a sajat hangeroeje csoekkenteseehez vagy noeveleeseehez, vagy a 8-at a kilepeshez.
+conf-usermenu-162: Kerem, nyomja meg az 1-et az elnemitas vagy a nemitas feloldasahoz, a 4-et vagy a 6-ot a konferencia hangeroejenek csoekkenteseehez vagy noeveleeseehez, az 5-oet a konferencia meghosszabbitasahoz, a 7-et vagy a 9-et a sajat hangeroeje csoekkenteseehez vagy noeveleeseehez, vagy a 8-at a menueboeel valo kilepeshez es a konferenciahoz valo visszatereshez.
+conf-userswilljoin: felhasznalo fog csatlakozni a konferenciahoz.
+conf-userwilljoin: felhasznalo fog csatlakozni a konferenciahoz.
+conf-waitforleader: A konferencia a vezetoe erkezesekor kezdoedik.
+confbridge-begin-glorious-a: a konferencia a dicsoeseeges vezetoenk erkezesekor kezdoedik
+confbridge-begin-glorious-b: a konferencia a dicsoeseeges vezetoenk erkezesekor kezdoedik
+confbridge-begin-glorious-c: a konferencia a dicsoeseeges vezetoenk erkezesekor kezdoedik
+confbridge-begin-leader: a konferencia a vezetoe erkezesekor kezdoedik
+confbridge-binaural-off: 3D hang kikapcsolva
+confbridge-binaural-on: 3D hang bekapcsolva
+confbridge-conf-begin: a konferencia most kezdoedik
+confbridge-conf-end: a konferencia befejezoeodoett
+confbridge-dec-list-vol-in: A tobbi resztvevoe hangeroejenek csoekkenteseehez...
+confbridge-dec-list-vol-out: ...a tobbi resztvevoe hangeroejenek csoekkenteseehez.
+confbridge-dec-talk-vol-in: Az Oen beszedhangja csoekkenteseehez a tobbi resztvevoenel...
+confbridge-dec-talk-vol-out: ...az Oen beszedhangja csoekkenteseehez a tobbi resztvevoenel.
+confbridge-has-joined: ...csatlakozott a konferenciahoz.
+confbridge-has-left: ...elhagyta a konferenciat.
+confbridge-inc-list-vol-in: A tobbi resztvevoe hangeroejenek noeveleeseehez...
+confbridge-inc-list-vol-out: ...a tobbi resztvevoe hangeroejenek noeveleeseehez.
+confbridge-inc-talk-vol-in: Az Oen beszedhangja noeveleeseehez a tobbi resztvevoenel...
+confbridge-inc-talk-vol-out: ...az Oen beszedhangja noeveleeseehez a tobbi resztvevoenel.
+confbridge-invalid: Ervenytelen valasztast adott meg.
+confbridge-leave-in: A konferenciabol valo kilepeshez...
+confbridge-leave-out: ...a konferenciabol valo kilepeshez.
+confbridge-lock-extended: ...a konferencia zarolasahoz vagy feloldasahoz. Zarolt konferenciahoz csak a konferencia adminisztratorai csatlakozhatnak.
+confbridge-lock-in: A konferencia zarolasahoz vagy feloldasahoz...
+confbridge-lock-no-join: A konferencia jelenleg zarolt, nem lehet csatlakozni.
+confbridge-lock-out: ...a konferencia zarolasahoz vagy feloldasahoz.
+confbridge-locked: A konferencia zarolva.
+confbridge-menu-exit-in: A menueboeel valo kilepeshez...
+confbridge-menu-exit-out: ...a menueboeel valo kilepeshez.
+confbridge-mute-extended: ...az elnemitashoz vagy a nemitas feloldasahoz. Nemitas eseten nem kueldhet hangot a tobbi resztvevoenek. Ugyanakkor meg fogja hallani a tobbi nem nemitott resztvevoe hangjat.
+confbridge-mute-in: Az elnemitashoz vagy a nemitas feloldasahoz...
+confbridge-mute-out: ...az elnemitashoz vagy a nemitas feloldasahoz.
+confbridge-muted: Oen most el van nemitva.
+confbridge-only-one: Jelenleg egy masik resztvevoe van a konferenciaban.
+confbridge-only-participant: Oen jelenleg az egyetlen resztvevoe a konferenciaban.
+confbridge-participants: ...resztvevoe a konferenciaban.
+confbridge-pin: Kerem, adja meg a szemelyes azonosito szamat, majd nyomja meg a kettos keresztet.
+confbridge-pin-bad: Tueel sok ervenytelen szemelyes azonosito szamot adott meg.
+confbridge-remove-last-in: A legutobb csatlakozott resztvevoe eltavolitasahoz...
+confbridge-remove-last-out: ...a legutobb csatlakozott resztvevoe eltavolitasahoz.
+confbridge-removed: Oent eltavolitottak a konferenciabol.
+confbridge-rest-list-vol-in: A konferencia hangeroejenek alapertelmezettre allitasahoz...
+confbridge-rest-list-vol-out: ...a konferencia hangeroejenek alapertelmezettre allitasahoz.
+confbridge-rest-talk-vol-in: Az Oen beszedhangja alapertelmezettre allitasahoz...
+confbridge-rest-talk-vol-out: ...az Oen beszedhangja alapertelmezettre allitasahoz.
+confbridge-there-are: Jelenleg...
+confbridge-unlocked: A konferencia zarolasa feloldva.
+confbridge-unmuted: Oen tobbe nincs elnemitva.
+de-activated: Deaktivalva.
+dictate/both_help: nyomja meg a csillag gombot a szünet be- vagy kikapcsolásához, nyomja meg a kettős kereszt gombot új diktálási fájlnév megadásához
+dictate/enter_filename: Adjon meg egy numerikus diktálási fájlnevet, majd nyomja meg a kettős kereszt gombot, vagy csak a kettős kereszt gombot a kilépéshez
+dictate/forhelp: nyomja meg a 0-t a súgóhoz
+dictate/pause: szünet
+dictate/paused: szünetel
+dictate/play_help: nyomja meg az 1-et a felvételi módra váltáshoz, nyomja meg a 2-t a gyors lejátszás be- vagy kikapcsolásához, nyomja meg a 7-et a visszaugráshoz, nyomja meg a 8-at az előreugráshoz
+dictate/playback: lejátszás
+dictate/playback_mode: lejátszási mód
+dictate/record: felvétel
+dictate/record_help: nyomja meg az 1-et a lejátszási módra váltáshoz, nyomja meg a 8-at a fájl csonkolásához és az újrakezdéshez
+dictate/record_mode: felvételi mód
+dictate/truncating_audio: hanganyag csonkolása
+digits/0: nulla
+digits/1: egy
+digits/10: tiz
+digits/11: tizenegy
+digits/12: tizenket
+digits/13: tizenharom
+digits/14: tizennegy
+digits/15: tizenoet
+digits/16: tizenhat
+digits/17: tizenhet
+digits/18: tizennyolc
+digits/19: tizenkilenc
+digits/2: kettoe
+digits/20: husz
+digits/3: harom
+digits/30: harminc
+digits/4: negy
+digits/40: negyven
+digits/5: oet
+digits/50: oetven
+digits/6: hat
+digits/60: hatvan
+digits/7: het
+digits/70: hetven
+digits/8: nyolc
+digits/80: nyolcvan
+digits/9: kilenc
+digits/90: kilencven
+digits/a-m: delelott
+digits/at: kor
+digits/billion: milliard
+digits/day-0: vasarnap
+digits/day-1: hetfoe
+digits/day-2: kedd
+digits/day-3: szerda
+digits/day-4: csuetortoek
+digits/day-5: pentek
+digits/day-6: szombat
+digits/dollars: dollar
+digits/h-1: elso
+digits/h-10: tizedik
+digits/h-11: tizenegyedik
+digits/h-12: tizenkettedik
+digits/h-13: tizenharmadik
+digits/h-14: tizennegyedik
+digits/h-15: tizenoetodik
+digits/h-16: tizenhatodik
+digits/h-17: tizenhetedik
+digits/h-18: tizennyolcadik
+digits/h-19: tizenkilencedik
+digits/h-2: masodik
+digits/h-20: huszadik
+digits/h-3: harmadik
+digits/h-30: harmincadik
+digits/h-4: negyedik
+digits/h-40: negyvenedik
+digits/h-5: oetodik
+digits/h-50: oetvennedik
+digits/h-6: hatodik
+digits/h-60: hatvanadik
+digits/h-7: hetedik
+digits/h-70: hetvenedik
+digits/h-8: nyolcadik
+digits/h-80: nyolcvanadik
+digits/h-9: kilencedik
+digits/h-90: kilencvenedik
+digits/h-billion: milliardodik
+digits/h-hundred: szazadik
+digits/h-million: milliomodik
+digits/h-thousand: ezredik
+digits/hundred: szaz
+digits/million: millio
+digits/minus: minusz
+digits/mon-0: januar
+digits/mon-1: februar
+digits/mon-10: november
+digits/mon-11: december
+digits/mon-2: marcius
+digits/mon-3: aprilis
+digits/mon-4: majus
+digits/mon-5: junius
+digits/mon-6: julius
+digits/mon-7: augusztus
+digits/mon-8: szeptember
+digits/mon-9: oktober
+digits/oclock: ora
+digits/oh: o
+digits/p-m: delutan
+digits/pound: kettos kereszt
+digits/star: csillag
+digits/thousand: ezer
+digits/today: ma
+digits/tomorrow: holnap
+digits/yesterday: tegnap
+dir-first: a keresett személy keresztnevének betűit.
+dir-firstlast: ... a keresett személy kereszt- vagy vezetéknevének betűit.
+dir-instr: Ha ez az a személy, akit keres, nyomja meg az 1-et, ellenkező esetben nyomja meg a csillag gombot.
+dir-intro: Üdvözöljük a névjegyzékben. Kérem, adja meg a keresett személy vezetéknevének első három betűjét a számbillentyűzet segítségével. Használja a 7-es gombot a Q betűhöz és a 9-es gombot a Z betűhöz.
+dir-intro-fn: Üdvözöljük a névjegyzékben. Kérem, adja meg a keresett személy keresztnevének első három betűjét a számbillentyűzet segítségével. Használja a 7-es gombot a Q betűhöz és a 9-es gombot a Z betűhöz.
+dir-last: ... a keresett személy vezetéknevének betűit.
+dir-multi1: Nyomja meg a...
+dir-multi2: ... gombot a...
+dir-multi3: ... mellék...
+dir-multi9: Nyomja meg a 9-et a további bejegyzésekhez.
+dir-nomatch: Nincs a keresésnek megfelelő névjegyzékbejegyzés.
+dir-nomore: Nincs több egyező bejegyzés a névjegyzékben.
+dir-pls-enter: Kérem, adja meg az első...
+dir-usingkeypad: ... a számbillentyűzet segítségével. Használja a 7-es gombot a Q betűhöz és a 9-es gombot a Z betűhöz.
+dir-welcome: Üdvözöljük a névjegyzékben
+disabled: Kikapcsolva.
+do-not-disturb: Ne zavarjanak.
+enabled: Bekapcsolva.
+enter-num-blacklist: Kerem, adja meg a tiltandoe szamot.
+entr-num-rmv-blklist: Kerem, adja meg a tiltolistarul eltavolitandoe szamot.
+extension: Mellék.
+feature-not-avail-line: Ez a funkció nem érhető el ezen a vonalon.
+followme/call-from: bejövő hívás tőle:
+followme/no-recording: bejövő hívása van
+followme/options: nyomja meg az 1-et a hívás fogadásához, vagy a 2-t az elutasításához
+followme/pls-hold-while-try: kérem, tartsa a vonalat, amíg megpróbálom megkeresni a hívott személyt
+followme/sorry: Sajnalom, de nem sikeruelt megtalalni a hivott szemelyt
+followme/status: a hívott személy jelenleg nem tartózkodik az asztalánál; megpróbálom megkeresni Önnek
+for: A következőhöz.
+from-unknown-caller: Ismeretlen hívótól.
+goodbye: Viszontlátásra!
+hello: Helló.
+hello-world: Helló világ.
+hours: óra
+if-correct-press: Ha ez helyes, nyomja meg a...
+im-sorry: Sajnálom.
+info-about-last-call: Információ az utolsó hívásáról.
+invalid: Sajnalom, ez nem ervenyes mellek. Kerem, probalja ujra.
+is: Van.
+is-in-use: Foglalt.
+is-set-to: Beállítása:
+letters/a: á
+letters/ascii123: bal kapcsos zárójel
+letters/ascii124: függőleges vonal
+letters/ascii125: jobb kapcsos zárójel
+letters/ascii126: tilde
+letters/ascii34: idézőjel
+letters/ascii36: dollárjel
+letters/ascii37: százalékjel
+letters/ascii38: és jel
+letters/ascii39: aposztróf
+letters/ascii40: nyitó zárójel
+letters/ascii41: záró zárójel
+letters/ascii42: csillag
+letters/ascii44: vessző
+letters/ascii58: kettőspont
+letters/ascii59: pontosvessző
+letters/ascii60: kisebb mint
+letters/ascii62: nagyobb mint
+letters/ascii63: kérdőjel
+letters/ascii91: bal szögletes zárójel
+letters/ascii92: fordított perjel
+letters/ascii93: jobb szögletes zárójel
+letters/ascii94: kalap jel
+letters/ascii95: aláhúzás
+letters/ascii96: visszafelé aposztróf
+letters/asterisk: csillag
+letters/at: kukac
+letters/b: bé
+letters/c: cé
+letters/d: dé
+letters/dash: kötőjel
+letters/dollar: dollár
+letters/dot: pont
+letters/e: é
+letters/equals: egyenlő
+letters/exclaimation-point: felkiáltójel
+letters/f: eff
+letters/g: gé
+letters/h: há
+letters/i: í
+letters/j: jé
+letters/k: ká
+letters/l: ell
+letters/m: emm
+letters/n: enn
+letters/o: ó
+letters/p: pé
+letters/plus: plusz
+letters/q: kú
+letters/r: err
+letters/s: ess
+letters/slash: perjel
+letters/space: szóköz
+letters/t: té
+letters/u: ú
+letters/v: vé
+letters/w: dupla vé
+letters/x: iksz
+letters/y: ipszilon
+letters/z: zé
+letters/zed: zé
+location: Helyszín.
+lowercase: kisbetű
+minute: perc
+minutes: perc
+num-was-successfully: A szám sikeresen...
+number: Szam.
+number-not-answering: A hivott szam nem valaszol.
+one-moment-please: Egy pillanat, kerem.
+pbx-invalid: Sajnalom, ez nem ervenyes mellek. Kerem, probalja ujra.
+pbx-invalidpark: Sajnalom, ezen a melleken nincs parkirozott hivas. Kerem, probalja ujra.
+pbx-parkingfailed: A parkirozasi kiserlet sikertelen.
+pbx-transfer: Atkapcsolas.
+phonetic/9_p: niner
+phonetic/a_p: alfa
+phonetic/b_p: bravó
+phonetic/c_p: csárli
+phonetic/d_p: delta
+phonetic/e_p: ekhó
+phonetic/f_p: foksztrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: dzsuliett
+phonetic/k_p: kiló
+phonetic/l_p: lima
+phonetic/m_p: majk
+phonetic/n_p: november
+phonetic/o_p: oszkár
+phonetic/p_p: papa
+phonetic/q_p: kebek
+phonetic/r_p: rómeó
+phonetic/s_p: szjerra
+phonetic/t_p: tangó
+phonetic/u_p: juniform
+phonetic/v_p: viktor
+phonetic/w_p: viszki
+phonetic/x_p: iksz-réj
+phonetic/y_p: jenki
+phonetic/z_p: zulu
+please-try-again: Kerem, probalja ujra.
+please-try-call-later: Kerem, probalja ujra kesobb.
+pls-hold-while-try: Kerem, varjon, amig megproballjuk kapcsolni Oent.
+pls-try-call-later: Kerem, probalja ujra kesobb.
+pm-invalid-option: Ez az opció érvénytelen. Kérem, próbálja újra.
+priv-callee-options: Nyomja meg az 1-et, ha azt szeretné, hogy ez a hívó most és a jövőben közvetlenül elérje Önt. Nyomja meg a 2-t, ha most és örökre a hangpostára szeretné irányítani ezt a hívót. Nyomja meg a 3-at, ha most és örökre a kínzó menükbe szeretné irányítani ezt a hívót. Nyomja meg a 4-et, ha most és örökre egy udvarias „ne hívjon" menübe szeretné irányítani ezt a hívót. Nyomja meg az 5-öt, ha a jövőben szeretné közvetlenül átengedni ezt a hívót, de most csak erre az egyszer a hangpostára szeretné irányítani.
+priv-callpending: Egy hívó várakozik, aki a következőképpen mutatkozott be:
+priv-introsaved: Köszönjük. Kérem, tartsa a vonalat, amíg megpróbálom összekötni a hívott féllel!
+priv-recordintro: A hangjelzés után kérem, mondja be a nevét.
+privacy-incorrect: Sajnalom, ez a szam nem ervenyes.
+privacy-prompt: Kérem, adja meg a telefonszámát a körzetszámmal kezdve.
+privacy-thankyou: Köszönjük.
+privacy-to-blacklist-last-caller: Az utolsó hívó volt...
+privacy-unident: A hívott fél nem fogad azonosítatlan hívásokat.
+queue-callswaiting: Varakozas a munkatarssal valo beszelgetesre
+queue-holdtime: A becsult varakozasi ido jelenleg
+queue-less-than: kevesebb mint
+queue-minute: perc
+queue-minutes: perc
+queue-periodic-announce: Minden munkatarsunk jelenleg foglalt. Kerem, maradjon vonalban, es a kovetkezoe szabad munkatars fogja fogadni hivasat.
+queue-quantity1: Jelenleg toebb mint...
+queue-quantity2: ...hivoe varakozik a munkatarssal valo beszelgetesre.
+queue-reporthold: Varakozasi idoe
+queue-seconds: masodperc
+queue-thankyou: Koeszoenjuek a tuerelmet
+queue-thereare: Oen jelenleg a sorban a kovetkezoe helyen all
+queue-youarenext: Az Oen hivasa van soron, a kovetkezoe szabad munkatars fogja fogadni.
+removed: Eltavolitva.
+screen-callee-options: A következő lehetőségei vannak: Nyomja meg az 1-et, ha azonnal csatlakozni szeretne a bejövő híváshoz. Nyomja meg a 2-t, ha a hangpostára szeretné irányítani ezt a hívót. Nyomja meg a 3-at, ha a kínzó menükbe szeretné irányítani ezt a hívót. Nyomja meg a 4-et, ha egy udvarias „ne hívjon" menübe szeretné irányítani ezt a hívót.
+second: masodperc
+seconds: masodperc
+simul-call-limit-reached: Az egyidejue hivasok korlatja eleerve.
+something-terribly-wrong: Valami komoly hiba történt!
+sorry: Sajnáljuk.
+sorry-youre-having-problems: Sajnáljuk, hogy problémái vannak.
+speed-dial: Gyorshívó.
+speed-dial-empty: Az Ön által elért gyorshívó bejegyzés üres.
+spy-agent: Agent
+spy-console: Console
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Local
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Az Oen altal hivott szam nem eleerheto. Kerem, ellenoerizze a szamot es probalja ujra.
+telephone-number: Telefonszam.
+time: Idő.
+to-call-this-number: A szam hivasahoz.
+to-extension: Mellekre.
+to-listen-to-it: A meghallgatashoz.
+to-rerecord-it: Az ujrarogziteshez.
+transfer: Kerem, varjon, amig megproballjuk az adott melleket.
+tt-allbusy: A haztartas osszes keviseroeje jelenleg mas telemarketingeseket segit. Kerem, varjon, es hivasat a beeerkezees sorrendjeben fogadjuk.
+tt-monkeysintro: Majmok vitték el őket
+tt-somethingwrong: Valami komoly hiba történt
+tt-weasels: Menyetek etteek meg a telefonrendszeruenket
+unidentified-no-callback: Azonosítatlan vagy rejtett szám, ezért nem hívható vissza.
+uppercase: nagybetű
+vm-Cust1: 5-ös mappa
+vm-Cust2: 6-os mappa
+vm-Cust3: 7-es mappa
+vm-Cust4: 8-as mappa
+vm-Cust5: 9-es mappa
+vm-Family: család
+vm-Friends: barátok
+vm-INBOX: új
+vm-Old: régi
+vm-Urgent: sürgős
+vm-Work: munka
+vm-advopts: nyomja meg a 3-at a speciális beállításokhoz
+vm-and: és
+vm-calldiffnum: nyomja meg a 2-t másik szám megadásához
+vm-changeto: Melyik mappára szeretne váltani?
+vm-delete: Nyomja meg a 7-et az üzenet törléséhez.
+vm-deleted: Az üzenet törölve.
+vm-dialout: kérem, várjon, amíg összekapcsolom a hívást
+vm-duration: Ez az üzenet...hosszúságú
+vm-enter-num-to-call: kerem, adja meg a hivni kivant szamot
+vm-extension: mellék
+vm-first: első
+vm-for: a következőhöz:
+vm-forward: Nyomja meg az 1-et mellékszám megadásához, nyomja meg a 2-t a névjegyzék használatához
+vm-forward-multiple: nyomja meg az 1-et az üzenet elküldéséhez, vagy a 2-t újabb címzett hozzáadásához.
+vm-forwardoptions: nyomja meg az 1-et bevezető üzenet hozzáfűzéséhez, vagy a 2-t az üzenet továbbításához bevezető nélkül
+vm-from: feladó:
+vm-from-extension: üzenet a következő melléktől:
+vm-from-phonenumber: üzenet a következő telefonszámról:
+vm-goodbye: Viszontlatasra
+vm-helpexit: Nyomja meg a csillag gombot a súgóhoz, vagy a kettős kereszt gombot a kilépéshez.
+vm-incorrect: Helytelen bejelentkezés.
+vm-incorrect-mailbox: Helytelen bejelentkezés. Postafiók?
+vm-instructions: Az üzenetek meghallgatásához nyomja meg az 1-et. A hangpostából bármikor kiléphet a kettős kereszt gomb megnyomásával.
+vm-intro: Kerem, hagyja uezeneteet a hang utan. Ha veegzett, tegye le a kagylot, vagy nyomja meg a kettos keresztet.
+vm-invalid-password: Ez a jelszó nem felel meg a postafiók minimális követelményeinek. Kérem, próbálja újra.
+vm-invalidpassword: Ez nem érvényes jelszó. Kérem, próbálja újra.
+vm-isonphone: éppen telefonál
+vm-isunavail: nem elérhető
+vm-last: utolsó
+vm-leavemsg: Nyomja meg az 5-öt üzenet hagyásához
+vm-login: Hangposta rendszer. Postafiók?
+vm-mailboxfull: sajnáljuk, de a felhasználó postafiókja megtelt, és nem tud több üzenetet fogadni
+vm-marked-nonurgent: A sürgős jelölés eltávolítva.
+vm-marked-urgent: Az üzenet sürgősként megjelölve.
+vm-message: üzenet
+vm-messages: üzenet
+vm-minutes: perc
+vm-mismatch: A megadott és az újra megadott jelszó nem egyezik. Kérem, próbálja újra.
+vm-msgforwarded: Az üzenet sikeresen továbbítva.
+vm-msginstruct: A következő üzenet meghallgatásához nyomja meg a 6-ot, az üzenet ismétléséhez nyomja meg az 5-öt, az előző üzenethez nyomja meg a 4-et, az üzenet törléséhez vagy visszaállításához nyomja meg a 0-t, a hangpostából való kilépéshez nyomja meg a kettős kereszt gombot.
+vm-msgsaved: Az üzenet elmentve.
+vm-newpassword: Kérem, adja meg új jelszavát, majd nyomja meg a kettős kereszt gombot.
+vm-newuser: Üdvözöljük a hangposta rendszerben. Először végigvezetem Önt egy rövid beállítási folyamaton.
+vm-next: Nyomja meg a 6-ot a következő üzenet lejátszásához.
+vm-no: nem
+vm-nobodyavail: Jelenleg senki sem tudja fogadni a hívását
+vm-nobox: nem tud válaszolni erre az üzenetre, mert a feladónak nincs postafiókja
+vm-nomore: Nincs több üzenet.
+vm-nonumber: Sajnos nem tudom, ki küldte ezt az üzenetet
+vm-num-i-have: a rendelkezésemre álló szám a következő:
+vm-onefor: Nyomja meg az 1-et a következőhöz:
+vm-onefor-full: Nyomja meg az 1-et a meghallgatásához...
+vm-options: Nyomja meg az 1-et a nem elérhető üzenet rögzítéséhez, nyomja meg a 2-t a foglalt üzenet rögzítéséhez, nyomja meg a 3-at a neve rögzítéséhez, nyomja meg a 4-et az ideiglenes üdvözlés rögzítéséhez, nyomja meg az 5-öt a jelszó módosításához, nyomja meg a csillag gombot a főmenübe való visszatéréshez.
+vm-opts: Nyomja meg a 2-t a mappa váltásához, nyomja meg a 3-at a speciális beállításokhoz, nyomja meg a 0-t a postafiók beállításaihoz.
+vm-opts-full: nyomja meg a 2-t a más mappákba mentett üzenetek eléréséhez. Nyomja meg a 3-at üzenet rögzítéséhez egy másik postafiók számára. Nyomja meg a 0-t az üdvözlések és jelszókezelés eléréséhez.
+vm-passchanged: A jelszavak megváltoztatva.
+vm-password: jelszó
+vm-pls-try-again: kérem, próbálja újra
+vm-press: nyomja meg
+vm-prev: Nyomja meg a 4-et az előző üzenethez
+vm-reachoper: nyomja meg a 0-t az operátor eléréséhez
+vm-rec-busy: A hangjelzés után mondja be a foglalt üzenetét, majd nyomja meg a kettős kereszt gombot.
+vm-rec-name: A hangjelzés után mondja be a nevét, majd nyomja meg a kettős kereszt gombot.
+vm-rec-temp: A hangjelzés után mondja be az ideiglenes üzenetét, majd nyomja meg a kettős kereszt gombot.
+vm-rec-unv: A hangjelzés után mondja be a nem elérhető üzenetét, majd nyomja meg a kettős kereszt gombot.
+vm-received: eerkezett
+vm-record-prepend: A hangjelzés után kérem, rögzítsen egy bevezetőt a továbbított üzenethez. Ha kész, nyomja meg a kettős kereszt gombot.
+vm-reenterpassword: Kérem, adja meg újra a jelszavát, majd nyomja meg a kettős kereszt gombot.
+vm-repeat: Nyomja meg az 5-öt az aktuális üzenet ismétléséhez.
+vm-review: nyomja meg az 1-et a felvétel elfogadásához, nyomja meg a 2-t a meghallgatásához, nyomja meg a 3-at az üzenet újrarögzítéséhez
+vm-review-nonurgent: Nyomja meg a 4-et az üzenet sürgős jelölésének eltávolításához.
+vm-review-urgent: Nyomja meg a 4-et az üzenet sürgősként való megjelöléséhez.
+vm-saved: elmentve
+vm-savedto: elmentve ide:
+vm-savefolder: Melyik mappába mentsem az üzenetet?
+vm-savemessage: vagy nyomja meg a 9-et az üzenet mentéséhez
+vm-saveoper: nyomja meg az 1-et a felvétel elfogadásához, ellenkező esetben kérem, tartsa a vonalat
+vm-sorry: Sajnálom, nem értettem a válaszát.
+vm-star-cancel: nyomja meg a csillag gombot a visszavonáshoz
+vm-starmain: nyomja meg a csillag gombot a főmenübe való visszatéréshez
+vm-tempgreetactive: Az ideiglenes üdvözlés jelenleg aktív
+vm-tempgreeting: nyomja meg az 1-et az ideiglenes üdvözlés rögzítéséhez
+vm-tempgreeting2: nyomja meg az 1-et az ideiglenes üdvözlés rögzítéséhez, vagy nyomja meg a 2-t az ideiglenes üdvözlés törléséhez
+vm-tempremoved: Az ideiglenes üdvözlés eltávolítva
+vm-then-pound: majd nyomja meg a kettős kereszt gombot
+vm-theperson: A személy a következő melléken:
+vm-tmpexists: Van egy ideiglenes üdvözlés, amely felülírja a normál üdvözléseit.
+vm-tocallback: nyomja meg a 2-t az üzenet küldőjének visszahívásához
+vm-tocallnum: nyomja meg az 1-et a szám tárcsázásához
+vm-tocancel: vagy nyomja meg a kettős kereszt gombot a visszavonáshoz.
+vm-tocancelmsg: nyomja meg a csillag gombot az üzenet visszavonásához
+vm-toenternumber: nyomja meg az 1-et szám megadásához
+vm-toforward: Nyomja meg a 8-at az üzenet továbbításához egy másik felhasználónak
+vm-tohearenv: nyomja meg a 3-at az üzenet borítékjának meghallgatásához
+vm-tomakecall: nyomja meg a 4-et kimenő hívás indításához
+vm-tooshort: az üzenet túl rövid
+vm-toreply: nyomja meg az 1-et válasz küldéséhez
+vm-torerecord: nyomja meg a 3-at az üzenet újrarögzítéséhez
+vm-undelete: Nyomja meg a 7-et az üzenet visszaállításához
+vm-undeleted: Az üzenet visszaállítva.
+vm-unknown-caller: ismeretlen hívótól
+vm-whichbox: Üzenet hagyásához kérem, adja meg a postafiók számát.
+vm-youhave: Önnek van
+with: Val.
+you-entered: Oen a koevetkezoet adta meg.
+your: Az Oen.
