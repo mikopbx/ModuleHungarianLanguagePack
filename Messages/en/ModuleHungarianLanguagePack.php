@@ -3,6 +3,6 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleHungarianLanguagePack' => 'Hungarian Language Pack',
+    'BreadcrumbModuleHungarianLanguagePack' => 'Language Pack - Hungarian',
     'SubHeaderModuleHungarianLanguagePack' => 'Complete Hungarian language support for MikoPBX',
 ];

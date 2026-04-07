@@ -3,20 +3,13 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleHungarianLanguagePack' => 'Hungarian Language Pack',
+    'BreadcrumbModuleHungarianLanguagePack' => 'Language Pack - Hungarian',
     'SubHeaderModuleHungarianLanguagePack' => 'Complete Hungarian language support for MikoPBX',
-    'mlp_SoundFiles' => 'Sound Files',
-    'mlp_TranslationFiles' => 'Translation Files',
-    'mlp_TranslationStrings' => 'Translation Strings',
-    'mlp_HowToUse' => 'How to Use',
-    'mlp_Step1' => 'After enabling this language pack, select Hungarian as the system language in General Settings.',
-    'mlp_GoToGeneralSettings' => 'Go to General Settings',
-    'mlp_LicenseHeader' => 'License',
-    'mlp_ModuleCode' => 'Module code',
-    'mlp_SoundFilesLicense' => 'Sound files',
-    'mlp_SoundFilesLicenseText' => 'Asterisk Sound Files (CC BY-SA 4.0)',
-    'mlp_CopyrightHeader' => 'Copyright',
-    'mlp_ModuleDevelopment' => 'Module development',
-    'mlp_VoicePrompts' => 'Voice prompts',
-    'mlp_VoicePromptsSource' => 'From official Asterisk release',
+    'mlp_hu_SoundFiles' => 'Sound Files',
+    'mlp_hu_TranslationFiles' => 'Translation Files',
+    'mlp_hu_TranslationStrings' => 'Translation Strings',
+    'mlp_hu_Step1' => 'After enabling this language pack, select the appropriate language in General Settings.',
+    'mlp_hu_GoToGeneralSettings' => 'Go to General Settings',
+    'mlp_hu_HelpTranslate' => 'Want to improve the translation? Help us on Weblate!',
+    'mlp_hu_WeblateLink' => 'Open Weblate',
 ];
